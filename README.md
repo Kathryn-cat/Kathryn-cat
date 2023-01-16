@@ -1,6 +1,6 @@
 ### 「About Me」
 - 👋 Hi, I’m Kathryn.
-- 👀 I’m interested in deep learning.
+- 👀 I’m interested in deep learning systems and explainability.
 - 🌱 I’m currently learning computer science at Carnegie Mellon University.
 - 💞️ I’m looking to collaborate on interesting projects!
 - 🎧 I'm becoming a music producer.
