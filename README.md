@@ -1,9 +1,5 @@
 ### 「About Me」
-- 👋 Hi, I’m Kathryn.
-- 👀 I’m interested in deep learning systems and explainability.
-- 🌱 I’m currently learning computer science at Carnegie Mellon University.
-- 💞️ I’m looking to collaborate on interesting projects!
-- 🎧 I'm becoming a music producer.
+I'm a 22-year-old coder working on Machine Learning Systems and an enthusiast in music and philosophy. If you have similar interests, welcome to drop me a chat!
 
 <!---
 Kathryn-cat/Kathryn-cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
